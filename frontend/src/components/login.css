@@ -1,0 +1,42 @@
+.container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: rgb(216 180 254);
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 20px;
+    color:  rgb(59 7 100);
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  .label {
+    margin-bottom: 8px;
+    color:  rgb(59 7 100);
+  }
+  
+  .input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    color:  rgb(59 7 100);
+  }
+  
+  .button {
+    background-color: rgb(59 7 100);
+    width: 100%;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;
+  }
+  

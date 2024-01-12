@@ -1,0 +1,27 @@
+.table {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border-collapse: collapse;
+  margin-top: 20px;
+  color: rgb(59 7 100);
+
+}
+
+.thead {
+  background-color: rgb(216 180 254);
+  color: rgb(59 7 100);
+}
+
+.th,
+.td {
+  border: 1px solid rgb(59 7 100);
+  padding: 8px;
+  text-align: center;
+}
+
+.input {
+  
+  padding: 6px;
+  box-sizing: border-box;
+}
